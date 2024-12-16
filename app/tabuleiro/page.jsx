@@ -6,6 +6,7 @@ export default function Hometab() {
         <>
             <div className={styles.container}>
                 <Line />
+                <Line />
             </div>
         </>
     )
